@@ -1,0 +1,36 @@
+{
+  "name": "pharmacy-server",
+  "version": "1.0.0",
+  "description": "Pharmacy app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunnain/Pharmacy-Server.git"
+  },
+  "author": "Hamza khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hunnain/Pharmacy-Server/issues"
+  },
+  "homepage": "https://github.com/hunnain/Pharmacy-Server#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.3",
+    "mongoose-paginate": "^5.0.3",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "randomstring": "^1.1.5",
+    "swagger-ui": "^3.22.1",
+    "swagger-ui-dist": "^3.22.1",
+    "validator": "^10.10.0"
+  }
+}
