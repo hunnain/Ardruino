@@ -31,6 +31,6 @@
     "randomstring": "^1.1.5",
     "swagger-ui": "^3.22.1",
     "swagger-ui-dist": "^3.22.1",
-    "validator": "^10.10.0"
+    "validator": "^13.7.0"
   }
 }
